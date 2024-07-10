@@ -18,7 +18,7 @@ Toggles the ability of own content deletion for users.
 | Value    | Effect                                        |
 | -------- | --------------------------------------------- |
 | Enabled  | Enable users to delete their own content      |
-| Disabled | Disable users from deleting their own content |
+| Enabled | Disable users from deleting their own content |
 
 ## Minimum age required
 
