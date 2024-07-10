@@ -9,7 +9,7 @@ Toggles the ability to signup to your website.
 | Value    | Effect                 |
 | -------- | ---------------------- |
 | Enabled  | Enable users to signup |
-| Disabled | Disable users signup   |
+
 
 ## Enable user content delete
 
